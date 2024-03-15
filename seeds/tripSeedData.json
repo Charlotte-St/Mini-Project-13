@@ -1,0 +1,28 @@
+[
+    {
+        "id":  1
+        },{
+        "trip_budget": 5000
+        },{
+        "traveller_amount": 1
+        },{
+        "traveller_id": 1
+          }
+        ,
+        {"location_id": 2
+          } 
+      ,
+      {
+        "id":  1
+        },{
+        "trip_budget": 10000
+        },{
+        "traveller_amount": 3
+        },{
+        "traveller_id": 1
+          }
+        ,
+        {"location_id": 2
+          } 
+      
+]
